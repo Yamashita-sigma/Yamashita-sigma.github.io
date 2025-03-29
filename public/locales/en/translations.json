@@ -1,6 +1,6 @@
 {
   "header": {
-    "name": "Your Name"
+    "name": "Tatsuya Yamashita"
   },
   "nav": {
     "bio": "About",
@@ -10,21 +10,21 @@
     "contact": "Contact"
   },
   "bio": {
-    "name": "Your Name",
-    "nameJp": "あなたの名前",
+    "name": "Tatsuya Yamashita",
+    "nameJp": "山下 達也",
     "phd": "",
-    "phdJp": "博士（工学）",
-    "position": "Postdoctoral Researcher",
+    "phdJp": "",
+    "position": "Ph.D. Student",
     "affiliation": "Institute of Engineering Innovation, The University of Tokyo",
-    "github": "https://github.com/yourusername",
-    "scholar": "https://scholar.google.com/citations?user=your-id",
-    "orcid": "https://orcid.org/0000-0000-0000-0000",
-    "researchmap": "https://researchmap.jp/yourusername",
-    "linkedin": "https://www.linkedin.com/in/yourusername/",
-    "researchInterests": "Research Interests",
+    "github": "",
+    "scholar": "",
+    "orcid": "",
+    "researchmap": "",
+    "linkedin": "",
+    "researchInterests": "",
     "researchTags": [
-      "Mathematics",
-      "Physics"
+      "Electron Microscopy",
+      "Materials Science"
     ]
   },
   "publications": {
@@ -60,13 +60,13 @@
     "location": "Location",
     "relatedLinks": "Related Links",
     "email": "Email",
-    "emailAdress": "your.email[at]example.com",
+    "emailAdress": "yamashita[at]sigma.t.u-tokyo.ac.jp",
     "phone": "Phone",
     "phoneNumber": "+81-3-5841-7689",
     "address": "Address",
     "addressLine1": "Electron Microscopy and Materials Science Laboratory",
     "addressLine2": "The University of Tokyo",
-    "addressLine3": "Room 419, Faculty of Engineering Bldg. 9, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan",
+    "addressLine3": "Room 422, Faculty of Engineering Bldg. 9, 2-11-16 Yayoi, Bunkyo-ku, Tokyo 113-0032, Japan",
     "socialMedia": "",
     "linkedin": "",
     "facebook": "",
