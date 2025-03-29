@@ -1,42 +1,42 @@
 [
   {
     "id": "career-1",
-    "position": "学士（工学）",
+    "position": "学士（物理学）",
     "organization": "東京大学",
     "location": "東京、日本",
-    "startDate": "2016",
-    "endDate": "2020",
+    "startDate": "2004",
+    "endDate": "2008",
     "description": "",
     "type": "education"
   },
   {
     "id": "career-2",
-    "position": "修士（工学）",
+    "position": "修士（物理工学）",
     "organization": "東京大学",
     "location": "東京、日本",
-    "startDate": "2020",
-    "endDate": "2022",
+    "startDate": "2008",
+    "endDate": "2010",
     "description": "",
     "type": "education"
   },
   {
     "id": "career-3",
-    "position": "博士（工学）",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "2022",
-    "endDate": "2025",
-    "description": "",
-    "type": "education"
-  },
-  {
-    "id": "career-4",
-    "position": "博士研究員",
-    "organization": "東京大学",
-    "location": "東京、日本",
-    "startDate": "2025",
+    "position": "研究員",
+    "organization": "富士フイルム株式会社",
+    "location": "神奈川、日本",
+    "startDate": "2010",
     "endDate": null,
     "description": "",
     "type": "work"
+  },
+  {
+    "id": "career-4",
+    "position": "博士（工学）",
+    "organization": "東京大学",
+    "location": "東京、日本",
+    "startDate": "2024",
+    "endDate": null,
+    "description": "",
+    "type": "education"
   }
 ]
