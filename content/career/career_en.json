@@ -1,0 +1,42 @@
+[
+  {
+    "id": "career-1",
+    "position": "B.Eng. in Physics",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2004",
+    "endDate": "2008",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-2",
+    "position": "M.Eng. in Applied Physics",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2008",
+    "endDate": "2010",
+    "description": "",
+    "type": "education"
+  },
+  {
+    "id": "career-3",
+    "position": "Engineer",
+    "organization": "Fujifilm Corporation",
+    "location": "Kanagawa, Japan",
+    "startDate": "2010",
+    "endDate": null,
+    "description": "",
+    "type": "work"
+  },
+  {
+    "id": "career-4",
+    "position": "Ph.D. in Materials Engineering",
+    "organization": "The University of Tokyo",
+    "location": "Tokyo, Japan",
+    "startDate": "2024",
+    "endDate": null,
+    "description": "",
+    "type": "education"
+  }
+]
